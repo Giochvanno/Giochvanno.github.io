@@ -1,0 +1,15 @@
+body {
+	background-image: url('https://top-fon.com/uploads/posts/2023-02/1675525657_top-fon-com-p-fon-dlya-prezentatsii-krasivii-i-neobichni-41.jpg');
+	background-size: 100% auto;
+    background-position: center;
+    
+}
+div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 800px;
+}
+
+
